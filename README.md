@@ -2,10 +2,7 @@
 
 Welcome to Good Wallet's open source Android app!
 
-Website: 
+Website: goodwallet.top
 
-Download Android version: 
-
-Blog: 
 
 
